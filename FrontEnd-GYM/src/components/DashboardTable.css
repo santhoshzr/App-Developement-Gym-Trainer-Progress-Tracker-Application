@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+.dash-table-card{
+    font-family: 'Overpass';
+    height:max-content;
+    width:50%;
+    margin-left: 6%;
+    
+}
+
+.table-title,.table-head{
+    font-family: 'Overpass';
+    font-weight: 600;
+}
+.table-head{
+    font-size: medium;
+}

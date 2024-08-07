@@ -1,0 +1,48 @@
+.navbar{
+    display: flex;  
+    color: aliceblue;
+    justify-content: space-between;
+    margin-top: 1%;
+    height: fit-content;
+}
+
+.logo{
+    font-size: xx-large;
+    margin-left: 1%;
+    font-weight: 700;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+    gap:2rem;
+    font-size: large;
+    margin-right: 2%;
+}
+
+.nav-items>li:hover{
+    cursor: pointer;
+    border-bottom: 1px solid white;
+
+}
+.log-out{
+    border: 1px solid white;
+    padding: 5px 8px ;
+    margin-top: -2%;
+}
+
+.log-out:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.user-icon{
+    margin-top: -8%;
+    text-decoration: none;
+    border: none;
+    margin-bottom: -13%;
+}
+.log-in link{
+    text-decoration: none;
+
+}
